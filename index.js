@@ -44,9 +44,4 @@ function GetPairNumberFromColors(majorColor, minorColor) {
 
 
 
-console.log("color coder");
-//tref1();
-testNumberToPair(4, "white", "brown");
-testNumberToPair(25, "violet", "slate");
-testColorToNumber("black", "brown", 14);
-testColorToNumber("yellow", "green", 18);
+
