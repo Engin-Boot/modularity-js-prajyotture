@@ -1,5 +1,5 @@
 const expect = require('chai').expect;
-const y=require("./GetPairNumbers");
+const y=require("./GetPairNumber");
 const MajorColors = [
     "white",
     "red",
