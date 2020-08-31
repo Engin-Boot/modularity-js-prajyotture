@@ -1,4 +1,4 @@
-//const expect = require('chai').expect;
+const expect = require('chai').expect;
 const t=require("./ColorCombinatonsOP");
 //const m=require("./testNumberPair");
 const MajorColors = [
